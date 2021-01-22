@@ -1,6 +1,6 @@
 ### Hello there 🦥 
 
-🌱 I’m currently learning some stuff.
+🌱 I’m currently working on few projects.
 <!--
 **marquisDecarabia/marquisDecarabia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
