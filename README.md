@@ -1,7 +1,7 @@
 ### Hello there 🦥 
 
 - 🔭 I’m currently working on dating product (NDA).
-- 🌱 I’m currently studying at (Borys Grinchenko Kyiv University)[https://partner.kubg.edu.ua/].
+- 🌱 I’m currently studying at [Borys Grinchenko Kyiv University][https://partner.kubg.edu.ua/].
 - 🐞 Fun fact: ladybugs practice cannibalism and necrophilia.
 <!--
 **marquisDecarabia/marquisDecarabia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
