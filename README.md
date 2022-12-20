@@ -1,6 +1,6 @@
 ### Hello there 🦥 
 
- 🔭 I’m currently open to work.\
+ 🔭 I’m currently working as Front - End Engineer.\
  🌱 I’m currently studying at [Borys Grinchenko Kyiv University](https://partner.kubg.edu.ua/).\
  🐞 Fun fact: ladybugs practice cannibalism and necrophilia.
 <!--
