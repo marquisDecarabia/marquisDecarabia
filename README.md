@@ -1,7 +1,7 @@
 ### Hello there 🦥 
 
  🔭 I’m currently working as Front - End Engineer.\
- 🌱 On my way to learn more fun things.
+ 🌱 On my way to learn more fun things.\
  🎓 Bachelor of Computer Science.\
  🐞 Fun fact: ladybugs practice cannibalism and necrophilia.
 <!--
