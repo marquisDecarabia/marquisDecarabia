@@ -1,7 +1,8 @@
 ### Hello there 🦥 
 
  🔭 I’m currently working as Front - End Engineer.\
- 🌱 I’m currently studying Computer Science at [Borys Grinchenko Kyiv University](https://partner.kubg.edu.ua/).\
+ 🌱 On my way to learn more fun things.
+ 🎓 Bachelor of Computer Science.\
  🐞 Fun fact: ladybugs practice cannibalism and necrophilia.
 <!--
 **marquisDecarabia/marquisDecarabia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
